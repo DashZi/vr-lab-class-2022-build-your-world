@@ -41,7 +41,10 @@ public class VegetationGenerator : MonoBehaviour
         // TODO: Exercise 1.2 -> 1.)
         // Instantiate & transform random "vegetationPrefab"
 
-        // your code here
+        for (int i = 0; i <= numObjects ; i++)
+        {
+
+        }
 
         // Collisions need to be resolved at a later time,
         // because Unity physics loop (Unity-internal evaluation of collisions)
